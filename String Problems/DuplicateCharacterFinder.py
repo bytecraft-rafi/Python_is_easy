@@ -19,7 +19,7 @@ def duplicates(input_str):
 
 
 # Input a string
-input_string = "piyush sharma"
+input_string = "Abdullah Al Rafi"
 # Find duplicate characters in the string
 duplicate_chars = duplicates(input_string)
 # Print the list of duplicate characters
